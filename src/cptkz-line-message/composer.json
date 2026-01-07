@@ -1,0 +1,13 @@
+{
+  "name": "cptkz/cptkz-line-message",
+  "description": "cptkz custom plugins",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "psr-4": {
+      "CptkzLineMessage\\": "src/"
+    }
+  },
+  "require": {
+    "linecorp/line-bot-sdk": "^11.1"
+  }
+}
