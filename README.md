@@ -5,6 +5,7 @@ the plugin for wordpress to create message json template use to send in line mes
 ## Feature
 
 - create json template
+- line message api schedule work with wp queue
 
 ## How to use
 
